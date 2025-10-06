@@ -1,0 +1,118 @@
+h1
+	{
+	color:yellow;
+	text-align:center;
+	font-family:lucida handwriting;
+	font-size:45px;
+	font-style:oblique;
+	text-shadow:50px 10px 10px black;
+	}
+
+h2
+	{
+	color:orange;
+	text-align:left;
+	font-family:lucida handwriting;
+	font-size:25px;
+	text-align:center;
+	font-style:oblique;
+	font-style:bold;
+	text-shadow:50px 10px 10px black;
+	}
+
+p.border1
+	{
+	border-radius:50px;
+	border-style:solid;
+	text-transform:uppercase;
+	border-color:white;
+	background-color:gold;
+	border-width:5px;
+	font-family:lucida handwriting;
+	font-size:30px;
+	font-style:oblique;
+	text-shadow:5px 5px 10px black;
+	}
+p.border2
+	{
+	border-radius:50px;
+	border-style:solid;
+	text-transform:uppercase;
+	border-color:white;
+	background-color:gold;
+	border-width:5px;
+	font-family:lucida handwriting;
+	font-size:30px;
+	font-style:oblique;
+	text-shadow:5px 5px 10px black;
+	}
+	
+p.border3
+	{
+	border-radius:50px;
+	border-style:solid;
+	text-transform:uppercase;
+	border-color:white;
+	background-color:gold;
+	border-width:5px;
+	font-family:lucida handwriting;
+	font-size:30px;
+	font-style:oblique;
+	text-shadow:5px 5px 10px black;
+	}
+p.border4
+	{
+	border-radius:50px;
+	border-style:solid;
+	text-transform:uppercase;
+	border-color:white;
+	background-color:gold;
+	border-width:5px;
+	font-family:lucida handwriting;
+	font-size:30px;
+	font-style:oblique;
+	text-shadow:5px 5px 10px black;
+	}
+p.border5
+	{
+	border-radius:10px;
+	border-style:solid;
+	text-transform:sentenced case;
+	border-color:white;
+	background-color:gold;
+	border-width:5px;
+	font-family:georgian;
+	font-size:15px;
+	text-align:left;
+	text-shadow:5px 5px 20px black;
+	font-style:bold;
+	color:white;
+	}
+p.border6
+	{
+	border-radius:20px;
+	border-style:solid;
+	background-color:orange;
+	text-transform:uppercase;
+	border-color:white;
+	border-width:5px;
+	font-family:times new roman;
+	font-size:10px;
+	color:white;
+	text-shadow:5px 5px 10px black;
+	text-align:center;
+	}
+p.border7
+	{
+	border-radius:20px;
+	border-style:solid;
+	background-color:orange;
+	text-transform:uppercase;
+	border-color:white;
+	border-width:5px;
+	font-family:lucida handwriting;
+	font-size:50px;
+	color:white;
+	text-shadow:5px 5px 10px black;
+	text-align:center;
+	}
